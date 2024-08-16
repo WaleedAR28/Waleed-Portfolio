@@ -1,2 +1,8 @@
 # Waleed-Portfolio
-This repository will help me display my portfolio
+## Skills
+
+## About Me
+
+## Work Experience
+
+## Past Projects
